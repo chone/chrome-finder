@@ -1,0 +1,9 @@
+{
+	"name": "Chrome Command",
+	"version": "1.0",
+	"description": "command terminal like for address bar",
+	"default locale": "en",
+
+	"background_page": "main.html"
+
+}
